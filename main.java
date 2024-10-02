@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.List;
-import java.util.OptionalDouble;
 
 /**
  * Напишите программу, которая использует Stream API для
